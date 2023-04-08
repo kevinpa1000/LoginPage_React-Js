@@ -20,12 +20,16 @@ label {
 }
 
 #username {
-    /* background-color: #4CAF50; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 96%;
 }
 
 #password {
-    /* background-color: #4CAF50; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
     width: 96%;
 }
 
